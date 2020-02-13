@@ -1,0 +1,14 @@
+[package]
+name = "mpeg-dash"
+version = "0.0.0"
+authors = ["Luc Street <lucis-fluxum@users.noreply.github.com>"]
+description = "Dynamic adaptive streaming over HTTP (DASH)\n"
+homepage = "https://github.com/lucis-fluxum/mpeg-dash-rs"
+repository = "https://github.com/lucis-fluxum/mpeg-dash-rs"
+keywords = ["dash", "adaptive", "media", "streaming"]
+license = "MIT"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
